@@ -1,5 +1,9 @@
-
-
+## Technologies Used : 
+Java 
+TypeScript
+HTML
+JavaScript
+CSS
 ## Features Added
 
 1. **Feature 1:** Inventory Validation Enhancement
